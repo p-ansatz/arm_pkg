@@ -1,4 +1,4 @@
-ROS package for manage a Robot Arm
+ROS package for manage a Robotic Arm
 
 Related Packages:
 * https://github.com/p-ansatz/eod_pkg
