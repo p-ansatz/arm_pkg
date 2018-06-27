@@ -1,1 +1,1 @@
-# arm_pkg
+ROS package for manage a Robot Arm
