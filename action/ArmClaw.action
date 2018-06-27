@@ -1,0 +1,7 @@
+#goal definition
+std_msgs/Bool open
+---
+#result definition
+std_msgs/String res
+---
+#feedback

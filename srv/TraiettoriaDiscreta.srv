@@ -1,0 +1,7 @@
+int16[] q_in
+int16[] q_fin
+---
+float32[] q1_out
+float32[] q2_out
+float32[] q3_out
+float32[] q4_out

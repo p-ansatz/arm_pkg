@@ -1,0 +1,7 @@
+#goal definition
+geometry_msgs/Point p
+---
+#result definition
+std_msgs/String res
+---
+#feedback

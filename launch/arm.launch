@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="arm_pkg" type="arm_governor.py" name="arm_governor" required="true"/>
+	<node pkg="arm_pkg" type="actuator_node.py" name="actuator_node" required="true" />
+	<node pkg="arm_pkg" type="elementaryArmActionServer.py" name="elementaryArmActionServer" required="true"/>
+	<node pkg="arm_pkg" type="inv_kin_node.py" name="inv_kin_node" required="true"/>
+</launch>
